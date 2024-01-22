@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/language": "off",
+    "meta-viewport": "off",
+    "axe/forms": "off",
+    "axe/name-role-value": "off"
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not ios_saf <= 16.5",
+    "not safari <= 16.5"
+  ]
+}
